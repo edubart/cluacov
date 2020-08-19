@@ -1,7 +1,8 @@
 package = "cluacov"
 version = "scm-1"
 source = {
-   url = "git+https://github.com/mpeterv/cluacov.git"
+   url = "git+https://github.com/edubart/cluacov.git",
+   branch = "myrocks"
 }
 description = {
    summary = "C extensions for LuaCov",
